@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8zbTAhfKDW0MY+QDy/KKfx1yUNNyn1mObT7+jnCStRfmAWO6vMtUkr1qGNmFyZC4AaK9HbFx2svj8D0tZ0YwUQ==",
+  "success": true,
+  "projectFilePath": "/home/siva/KafkaStreamProducer/KafkaStreamProducer.csproj",
+  "expectedPackageFiles": [
+    "/home/siva/.nuget/packages/confluent.kafka/1.4.2/confluent.kafka.1.4.2.nupkg.sha512",
+    "/home/siva/.nuget/packages/librdkafka.redist/1.4.2/librdkafka.redist.1.4.2.nupkg.sha512",
+    "/home/siva/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

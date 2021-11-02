@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ku845UU7fLXwh1guMzHG9B13JL1ASNFCqMkamfNl4gfQOxYKNXr/XyJXfJoeNV17ecjaHK4ZetNd1Q212++MhQ==",
+  "success": false,
+  "projectFilePath": "/home/siva/KafkaStreamClient/KafkaStreamClient.csproj",
+  "expectedPackageFiles": [
+    "/home/siva/.nuget/packages/confluent.kafka/1.4.2/confluent.kafka.1.4.2.nupkg.sha512",
+    "/home/siva/.nuget/packages/librdkafka.redist/1.4.2/librdkafka.redist.1.4.2.nupkg.sha512",
+    "/home/siva/.nuget/packages/log4net/2.0.10/log4net.2.0.10.nupkg.sha512",
+    "/home/siva/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/microsoft.netcore.platforms/2.0.0/microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/home/siva/.nuget/packages/streamiz.kafka.net/1.1.5/streamiz.kafka.net.1.1.5.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.configuration.configurationmanager/4.5.0/system.configuration.configurationmanager.4.5.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.dynamic.runtime/4.3.0/system.dynamic.runtime.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.globalization/4.3.0/system.globalization.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.linq/4.3.0/system.linq.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.linq.expressions/4.3.0/system.linq.expressions.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.memory/4.5.0/system.memory.4.5.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.objectmodel/4.3.0/system.objectmodel.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.reflection.emit/4.3.0/system.reflection.emit.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.reflection.emit.lightweight/4.3.0/system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.reflection.extensions/4.3.0/system.reflection.extensions.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.reflection.typeextensions/4.3.0/system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.resources.resourcemanager/4.3.0/system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.runtime.extensions/4.3.0/system.runtime.extensions.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.security.accesscontrol/4.5.0/system.security.accesscontrol.4.5.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.security.cryptography.protecteddata/4.5.0/system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.threading/4.3.0/system.threading.4.3.0.nupkg.sha512",
+    "/home/siva/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Error",
+      "message": "Detected package downgrade: Confluent.Kafka from 1.5.2 to 1.4.2. Reference the package directly from the project to select a different version. \n KafkaStreamClient -> Streamiz.Kafka.Net 1.1.5 -> Confluent.Kafka (>= 1.5.2) \n KafkaStreamClient -> Confluent.Kafka (>= 1.4.2)",
+      "libraryId": "Confluent.Kafka",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
